@@ -1,0 +1,28 @@
+const vegetationData = [
+  { Dist_Name: "ranchi", vegetation: 68 },
+  { Dist_Name: "dhanbad", vegetation: 42 },
+  { Dist_Name: "hazaribag", vegetation: 60 },
+  { Dist_Name: "bokaro", vegetation: 45 },
+  { Dist_Name: "palamu", vegetation: 72 },
+  { Dist_Name: "giridih", vegetation: 55 },
+  { Dist_Name: "godda", vegetation: 50 },
+  { Dist_Name: "deoghar", vegetation: 48 },
+  { Dist_Name: "jamshedpur", vegetation: 58 },
+  { Dist_Name: "dumka", vegetation: 54 },
+  { Dist_Name: "lohardaga", vegetation: 67 },
+  { Dist_Name: "chatra", vegetation: 62 },
+  { Dist_Name: "latehar", vegetation: 70 },
+  { Dist_Name: "simdega", vegetation: 73 },
+  { Dist_Name: "pashchimi singhbhum", vegetation: 75 },
+  { Dist_Name: "purba singhbhum", vegetation: 59 },
+  { Dist_Name: "gumla", vegetation: 71 },
+  { Dist_Name: "khunti", vegetation: 69 },
+  { Dist_Name: "ramgarh", vegetation: 52 },
+  { Dist_Name: "kodarma", vegetation: 47 },
+  { Dist_Name: "jamtara", vegetation: 49 },
+  { Dist_Name: "saraikela-kharsawan", vegetation: 63 },
+  { Dist_Name: "pakur", vegetation: 44 },
+  { Dist_Name: "garhwa", vegetation: 66 },
+  { Dist_Name: "sahibganj", vegetation: 43 }
+];
+export default vegetationData;
